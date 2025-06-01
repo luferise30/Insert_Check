@@ -1,4 +1,3 @@
-# Insert_Check
 # 🧬 Plasmid–Genome K-mer Intersection Pipeline
 
 This repository contains a Bash pipeline that compares plasmid sequences to a reference genome using **k-mer-based analysis** and sequence alignment. It identifies shared k-mers, maps them to genome positions, and outputs them in standard formats.
